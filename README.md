@@ -1,16 +1,27 @@
-# mealsapp
+# Meals App
 
-A new Flutter project.
+## Welcome to our Meals App built using Flutter!
 
-## Getting Started
+## General info
+This app is designed to help users discover recipes. With the use of Flutter, I have created a beautiful and intuitive interface that is easy to use. Here's a quick guide to help you get started:
 
-This project is a starting point for a Flutter application.
+### Installation
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone the project from our Github repository: https://github.com/tejaswini-dev-techie/meals_app
+2. Install Flutter 1.17.4 on your machine
+3. Open the project in your preferred IDE (we recommend using Android Studio or Visual Studio Code)
+4. Run the app on an emulator or physical device
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Features
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. View detailed recipe information
+2. Save favorite recipes for quick access later
+3. Create a meal plan for the week
+4. Filter recipes based on different categories
+
+### Technologies
+Project is created with:
+* Flutter version: 1.17.4
+* Android Studio (version 4.0)
+
+
